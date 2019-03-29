@@ -8,3 +8,24 @@ and open the template in the editor.
     Author     : cetecom
 */
 
+#contenedor{
+    width:100%;
+}
+#titulo{
+    width:100%;
+    height: 80px;
+    float: left;
+    background: red;
+}
+#menu{
+    width: 30%;
+    height: 500px;
+    float: left;
+    background: green;
+}
+#contenido{
+   width: 70%;
+   height: 500px; 
+   float: left;
+   background: yellow;
+}
