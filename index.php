@@ -7,7 +7,9 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Ejercicio tipo prueba</title>
+        <link href="css/hojadesestilo.css" rel="stylesheet" type="text/css"/>
+        
     </head>
     <body>
         <?php
