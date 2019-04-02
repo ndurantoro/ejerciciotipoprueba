@@ -6,3 +6,4 @@
     <a class="list-group-item" href="#"><i class="fa fa-file-o fa-2x"></i> Certificados</a>
     <a class="list-group-item" href="#"><i class="fa fa-file-o fa-2x"></i> Resumen</a>
 </div>
+

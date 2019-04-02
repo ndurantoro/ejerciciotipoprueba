@@ -36,7 +36,7 @@ and open the template in the editor.
    background: #113f67;
 }
 
-#titulositi{
+.titulo{
     font-family: 'Ubuntu', sans-serif;
     font-size: 45px;
 }

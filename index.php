@@ -12,6 +12,7 @@ and open the template in the editor.
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
         <link href="css/hojadesestilo.css" rel="stylesheet" type="text/css"/>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu" >
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         
     </head>
     <body>
@@ -24,7 +25,7 @@ and open the template in the editor.
                         <h1>Ventas express</h1>
                     </div>
             </div>
-            <div id="menuprincipal" ></div>
+            <div id="menuprincipal" ><?php include('menu.php');?></div>
             <div id="tituloprincipal" ></div>
             <div id="contenido" ></div>
         </div>
