@@ -11,13 +11,22 @@ and open the template in the editor.
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
         <link href="css/hojadesestilo.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu" >
         
     </head>
     <body>
         <div id="contenedor">
-            <div id="titulo"></div>
-            <div id="menu"><?php include('menu.php');?></div>
-            <div id="contenido"></div>
+            <div id="titulositio">
+                    <div class="col-sm-3 col-lg-2">
+                        <a href="/" class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_DuocUC.svg/1024px-Logo_DuocUC.svg.png" class="img-responsive"></a>
+                    </div>
+                    <div class="col-sm-7 col-lg-8">
+                        <h1>Ventas express</h1>
+                    </div>
+            </div>
+            <div id="menuprincipal" ></div>
+            <div id="tituloprincipal" ></div>
+            <div id="contenido" ></div>
         </div>
         
         

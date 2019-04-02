@@ -11,21 +11,32 @@ and open the template in the editor.
 #contenedor{
     width:100%;
 }
-#titulo{
+#titulositio{
     width:100%;
     height: 80px;
     float: left;
-    background: red;
+    background: #f3f9fb;
 }
-#menu{
+#menuprincipal{
     width: 30%;
-    height: 500px;
+    height: 600px;
     float: left;
-    background: green;
+    background: #87c0cd;
+}
+#tituloprincipal{
+    width: 70%;
+    height: 100px;
+    float: left;
+    background: #226597;
 }
 #contenido{
    width: 70%;
    height: 500px; 
    float: left;
-   background: yellow;
+   background: #113f67;
+}
+
+#titulositi{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 45px;
 }
